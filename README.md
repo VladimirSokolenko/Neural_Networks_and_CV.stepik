@@ -1,3 +1,2 @@
-# Neural_Networks_and_CV
-
-Repo for free online course stepik.org/course/50352
+# Neural_Networks_and_CV.stepik
+ML and CV 7 stages course from Stepik.ru
